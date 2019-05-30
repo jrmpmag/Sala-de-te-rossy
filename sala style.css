@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-color: #EF7878}
+
+body{
+	font: lighter
+}
+
+h1{
+	color: #03AD16
+}
+h3{
+	color: #8C0002
+}
+.pregunta{
+	
+	color: #9B5200
+}
+.alineacion{
+	align-content: center;
+}
